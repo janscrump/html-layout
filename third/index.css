@@ -1,0 +1,51 @@
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+.row {
+    width: 100%;
+    height: 100px
+}
+
+.row-big {
+    width: 100%;
+    height: 200px;
+}
+
+.row-one {
+    background-color: rgb(192, 185, 185);
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+.row-one-box {
+    height: 50px;
+    width: 50px;
+    background: cornflowerblue;
+}
+
+.row-two {
+    background-color: #fff;
+    box-sizing: border-box;
+    padding: 50px;
+  }
+  
+  .row-three {
+    background-color: cornflowerblue;
+  }
+  
+  .row-four {
+    background-color: lightgreen;
+  }
+  
+  .row-five {
+    background-color: #a1bb88;
+  }
+  
+  .row-six {
+    background-color: #f1e55e;
+  }
+
+
+
