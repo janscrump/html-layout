@@ -13,8 +13,8 @@ body {
 }
 
 .rectangle-one {
-    width: 20px;
-    height: 80px;
+    width: 35px;
+    height: 75px;
     background-color: blueviolet;
     display: inline-block;
 }
