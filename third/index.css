@@ -15,13 +15,13 @@ body, html {
 
 .row-one {
     background-color: rgb(192, 185, 185);
-    padding: 50px;
+    padding: 40px;
     box-sizing: border-box;
 }
 
 .row-one-box {
-    height: 100px;
-    width: 100px;
+    height: 125px;
+    width: 125px;
     background: cornflowerblue;
 }
 
